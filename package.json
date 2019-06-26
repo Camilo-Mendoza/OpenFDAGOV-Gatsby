@@ -2,7 +2,7 @@
   "name": "open-fda-gov",
   "description": "openFDA website",
   "version": "2.0.0",
-  "author": "Jack Finch <jack.finch@semanticbits.com>",
+  "author": "Dmytro Skrupskyi <coder.ua@protonmail.com>",
   "scripts": {
     "dev:css": "./node_modules/.bin/stylus -o ./src/css/build/app.css -I ./node-modules/nib ./src/css/app.styl",
     "dev:site": "./node_modules/.bin/gatsby develop -H 0.0.0.0 -p 3000",
